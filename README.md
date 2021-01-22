@@ -1,7 +1,7 @@
 ### 💖Ga_young💖
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rkdud5253)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkdud5253&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rkdud5253/rkdud5253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
